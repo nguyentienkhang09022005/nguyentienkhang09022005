@@ -20,5 +20,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" style="margin: 5px;" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/REST%20API-005C84?style=flat-square&logo=postman&logoColor=white" height="40" alt="REST API" style="margin: 5px;" />
 </p>
