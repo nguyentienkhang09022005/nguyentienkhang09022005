@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Khang</h1>
   <h3>🚀 Backend Developer | Java • .NET • Golang</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Backend+Developer;Microservices+Enthusiast;System+Design+Learner;AI+%26+Computer+Vision+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0055A5&center=true&vCenter=true&width=600&lines=Backend+Developer;Microservices+Enthusiast;System+Design+Learner;AI+%26+Computer+Vision+Explorer" alt="Typing SVG" />
 </div>
 
 ---
@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/nguyentienkhang2005/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="nguyentienkhang09022005@gmail.com">
+  <a href="mailto:nguyentienkhang09022005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
