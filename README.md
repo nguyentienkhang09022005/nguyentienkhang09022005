@@ -1,5 +1,5 @@
 <a href="https://www.uit.edu.vn/" target="_blank">
-  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_UIT_updated.png/800px-Logo_UIT_updated.png" width="120" alt="UIT Logo" />
+  <img align="right" src="./uit-logo.png" width="120" alt="UIT Logo" />
 </a>
 
 <div align="center">
@@ -45,13 +45,13 @@
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="https://www.facebook.com/tienkhang09022005">
+  <a href="https://www.facebook.com/tienkhang09022005" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.linkedin.com/in/nguyentienkhang2005/">
+  <a href="https://www.linkedin.com/in/nguyentienkhang2005/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:nguyentienkhang09022005@gmail.com">
+  <a href="mailto:nguyentienkhang09022005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
