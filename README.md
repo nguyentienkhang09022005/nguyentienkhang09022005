@@ -39,25 +39,15 @@
 
 ---
 
-## 🚀 Featured Direction
-<div align="center">
-  💡 <b>Architecture:</b> Designing robust booking & management systems. <br>
-  ⚙️ <b>Backend:</b> Working deeply with JWT, OAuth2, and Microservices. <br>
-  🧪 <b>Quality Assurance:</b> Implementing testing strategies with Playwright & Karate DSL. <br>
-  ☁️ <b>Deployment:</b> Containerizing apps with Docker & deploying on DigitalOcean.
-</div>
-
----
-
 ## 🌐 Connect with me
 <p align="center">
-  <a href="LINK_FACEBOOK_CUA_BAN">
+  <a href="https://www.facebook.com/tienkhang09022005">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="LINK_LINKEDIN_CUA_BAN">
+  <a href="https://www.linkedin.com/in/nguyentienkhang2005/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="nguyentienkhang09022005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
