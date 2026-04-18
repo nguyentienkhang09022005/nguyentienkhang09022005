@@ -33,7 +33,7 @@
 
 ### ⚙️ Tools, Testing & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,postman&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,postman&theme=dark" alt="Tools"/>
 </p>
 
 ---
