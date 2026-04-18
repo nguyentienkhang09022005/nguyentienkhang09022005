@@ -1,13 +1,7 @@
-<div style="position: relative; text-align: center;">
-  <img src="https://path_to_your_uit_logo.png" 
-       alt="UIT Logo" 
-       style="position: absolute; top: 10px; right: 10px; width: 100px; height: auto;" />
-
-  <div style="padding-top: 50px;"> <h1>Hi 👋, I'm Khang</h1>
-    <h3>🚀 Backend Developer | Java • .NET • Golang</h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Backend+Developer;Microservices+Enthusiast;System+Design+Learner;AI+%26+Computer+Vision+Explorer" 
-         alt="Typing SVG" />
-  </div>
+<div align="center">
+  <h1>Hi 👋, I'm Khang</h1>
+  <h3>🚀 Backend Developer | Java • .NET • Golang</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Backend+Developer;Microservices+Enthusiast;System+Design+Learner;AI+%26+Computer+Vision+Explorer" alt="Typing SVG" />
 </div>
 
 ---
