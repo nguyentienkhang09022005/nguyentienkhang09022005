@@ -1,5 +1,5 @@
 <a href="https://www.uit.edu.vn/" target="_blank">
-  <img align="right" src="./uit-logo.png" width="100" alt="UIT Logo" />
+  <img align="right" src="./uit-logo.png" width="140" alt="UIT Logo" />
 </a>
 
 <div align="center">
