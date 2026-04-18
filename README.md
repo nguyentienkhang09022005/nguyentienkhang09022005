@@ -6,17 +6,6 @@
 
 ---
 
-## 🧠 About Me
-<div align="center">
-  🎓 Student at <b>University of Information Technology (UIT)</b> <br>
-  💼 Backend Developer Intern at <b>TGL Solutions (DX Enterprise Unit)</b> <br>
-  ⚙️ Building scalable microservices (<i>BookingNext</i>) & AI-integrated systems (<i>BlindNav_Vision</i>) <br>
-  ⚡ Passionate about Backend Architecture, Cloud Deployments, and Computer Vision (YOLOv8) <br>
-  🔥 Goal: Become a Senior Backend Developer in 3 years
-</div>
-
----
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
