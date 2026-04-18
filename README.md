@@ -1,16 +1,14 @@
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" width="140" height="1" alt=""/>
-
 <a href="https://www.uit.edu.vn/" target="_blank">
-  <img align="right" src="./uit-logo.png" width="140" alt="UIT Logo" />
+  <img align="right" src="./uit-logo.png" width="100" alt="UIT Logo" />
 </a>
 
 <div align="center">
-  <br> <h3><b>Hi 👋, I'm Khang</b></h3>
-  <p><b>🚀 Backend Developer | Java • .NET • Golang</b></p>
+  <h1>Hi 👋, I'm Khang</h1>
+  <h3>🚀 Backend Developer | Java • .NET • Golang</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Backend+Developer;Microservices+Enthusiast;System+Design+Learner;AI+%26+Computer+Vision+Explorer" alt="Typing SVG" />
 </div>
 
-<br clear="both"> ---
+---
 
 ## 🛠 Tech Stack
 
