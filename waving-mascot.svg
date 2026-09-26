@@ -1,0 +1,89 @@
+<svg width="70" height="65" viewBox="0 0 70 65" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes waveArm {
+      0% { transform: rotate(0deg); }
+      20% { transform: rotate(-25deg); }
+      40% { transform: rotate(10deg); }
+      60% { transform: rotate(-20deg); }
+      80% { transform: rotate(5deg); }
+      100% { transform: rotate(0deg); }
+    }
+    @keyframes blinkEyes {
+      0%, 90%, 100% { transform: scaleY(1); }
+      95% { transform: scaleY(0.1); }
+    }
+    @keyframes sparkle {
+      0%, 100% { opacity: 0.2; transform: scale(0.6); }
+      50% { opacity: 1; transform: scale(1.1); }
+    }
+    .waving-arm {
+      transform-origin: 43px 34px;
+      animation: waveArm 1.8s ease-in-out infinite;
+    }
+    .eyes {
+      transform-origin: 30px 22px;
+      animation: blinkEyes 4s infinite;
+    }
+    .sparkle {
+      animation: sparkle 2s ease-in-out infinite;
+      transform-origin: 56px 12px;
+    }
+  </style>
+
+  <!-- Sparkle beside waving hand -->
+  <g class="sparkle" fill="#e0af68">
+    <rect x="55" y="8" width="3" height="7" rx="1.5" />
+    <rect x="53" y="10" width="7" height="3" rx="1.5" />
+  </g>
+
+  <!-- Main Character Body & Head (Cute Pixel Dino / Cyber Mascot) -->
+  <!-- Tail (left side) -->
+  <rect x="12" y="38" width="6" height="4" fill="#7dcfff" />
+  <rect x="8" y="36" width="5" height="4" fill="#7dcfff" />
+  <rect x="5" y="34" width="4" height="4" fill="#7dcfff" />
+
+  <!-- Body -->
+  <rect x="17" y="30" width="26" height="22" rx="4" fill="#7dcfff" />
+  <!-- Belly (Lighter cyan / white) -->
+  <rect x="22" y="34" width="16" height="15" rx="3" fill="#b4f9f8" />
+
+  <!-- Feet -->
+  <rect x="20" y="52" width="8" height="6" rx="2" fill="#565f89" />
+  <rect x="32" y="52" width="8" height="6" rx="2" fill="#565f89" />
+  <!-- Toe highlights -->
+  <rect x="19" y="56" width="3" height="2" fill="#7dcfff" />
+  <rect x="31" y="56" width="3" height="2" fill="#7dcfff" />
+
+  <!-- Head -->
+  <rect x="15" y="10" width="30" height="22" rx="5" fill="#7dcfff" />
+  <!-- Cheeks (cute blush) -->
+  <rect x="17" y="24" width="4" height="3" rx="1" fill="#f7768e" opacity="0.8" />
+  <rect x="39" y="24" width="4" height="3" rx="1" fill="#f7768e" opacity="0.8" />
+
+  <!-- Eyes (Blinking animation) -->
+  <g class="eyes" fill="#1a1b26">
+    <rect x="22" y="18" width="4" height="6" rx="2" />
+    <rect x="34" y="18" width="4" height="6" rx="2" />
+    <!-- Eye catchlights (spark in eye) -->
+    <rect x="23" y="19" width="2" height="2" rx="1" fill="#ffffff" />
+    <rect x="35" y="19" width="2" height="2" rx="1" fill="#ffffff" />
+  </g>
+
+  <!-- Smile -->
+  <path d="M 28 26 Q 30 29 32 26" stroke="#1a1b26" stroke-width="2" stroke-linecap="round" fill="none" />
+
+  <!-- Left Arm (resting cute) -->
+  <rect x="14" y="34" width="4" height="8" rx="2" fill="#7dcfff" />
+
+  <!-- Right Arm (WAVING HAND with animation) -->
+  <g class="waving-arm">
+    <!-- Arm segment going up -->
+    <rect x="42" y="28" width="5" height="10" rx="2.5" fill="#7dcfff" transform="rotate(-30 42 28)" />
+    <!-- Hand / Paw -->
+    <rect x="46" y="18" width="7" height="9" rx="3.5" fill="#7dcfff" />
+    <!-- Paw pads / fingers -->
+    <circle cx="48" cy="18" r="1.5" fill="#b4f9f8" />
+    <circle cx="51" cy="17" r="1.5" fill="#b4f9f8" />
+    <circle cx="54" cy="19" r="1.5" fill="#b4f9f8" />
+  </g>
+</svg>

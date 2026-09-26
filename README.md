@@ -7,12 +7,20 @@
     <img src="./uit-logo.png" height="75" alt="UIT Logo" style="vertical-align: middle;" />
   </a>
 
-  <p align="center" style="margin: 12px 0 6px 0;">
-    <font size="6"><b>Hi 👋, I'm Nguyen Tien Khang</b></font>
+  <br/>
+  <img src="./hero-header.svg" width="600" alt="Hi 👋, I'm Nguyen Tien Khang" />
+
+  <h3 align="center" style="margin: 6px 0;">
+    🚀 Backend Developer & AI Researcher | LLMs • VLMs
+  </h3>
+
+  <p align="center" style="margin: 6px 0;">
+    <font size="4">☕ <b>Java • .NET • Golang • Python</b></font>
   </p>
-  <p><strong>🚀 Backend Developer & AI Researcher | LLMs • VLMs</strong></p>
-  <p>☕ <b>Java • .NET • Golang • Python</b></p>
-  <p>🎓 Software Engineering @ <strong>University of Information Technology (UIT - VNU-HCM)</strong></p>
+
+  <p align="center" style="margin: 6px 0 16px 0;">
+    <font size="4">🎓 Software Engineering @ <b>University of Information Technology (UIT - VNU-HCM)</b></font>
+  </p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=640&lines=Backend+Developer+%26+System+Design;LLMs+%26+VLMs+Researcher;Multimodal+AI+%26+Computer+Vision;High-Performance+APIs+%26+Microservices" alt="Typing SVG" />
 </div>
