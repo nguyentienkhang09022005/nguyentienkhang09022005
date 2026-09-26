@@ -32,34 +32,27 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="140"><b>Languages</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=java,cs,go,py,ts,nodejs&theme=dark" alt="Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140"><b>Frameworks & AI</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,pytorch,angular&theme=dark" alt="Frameworks & AI" style="vertical-align: top;" />
-        <img src="./gin.svg" width="48" height="48" alt="Gin Framework" style="vertical-align: top; margin-left: 4px;" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140"><b>Databases</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases" style="vertical-align: top;" />
-        <img src="./mssql.svg" width="48" height="48" alt="MSSQL" style="vertical-align: top; margin-left: 4px;" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140"><b>Tools & DevOps</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=docker,git,postman&theme=dark" alt="Tools" />
-      </td>
-    </tr>
-  </table>
+  <p>
+    <strong>💻 Languages:</strong>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=java,cs,go,py,ts,nodejs&theme=dark" alt="Languages" style="vertical-align: middle;" />
+  </p>
+
+  <p>
+    <strong>🧩 Frameworks & AI:</strong>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,pytorch,angular&theme=dark" alt="Frameworks & AI" style="vertical-align: middle;" />
+    <img src="./gin.svg" width="48" height="48" alt="Gin Framework" style="vertical-align: middle; margin-left: 4px;" />
+  </p>
+
+  <p>
+    <strong>🗄️ Databases:</strong>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases" style="vertical-align: middle;" />
+    <img src="./mssql.svg" width="48" height="48" alt="MSSQL" style="vertical-align: middle; margin-left: 4px;" />
+  </p>
+
+  <p>
+    <strong>⚙️ Tools & DevOps:</strong>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=docker,git,postman&theme=dark" alt="Tools" style="vertical-align: middle;" />
+  </p>
 </div>
 
 ---
