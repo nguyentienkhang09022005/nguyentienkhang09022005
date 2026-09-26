@@ -1,13 +1,15 @@
 <div align="center">
   <a href="https://vnuhcm.edu.vn/" target="_blank">
-    <img src="./vnuhcm-logo.png" height="75" alt="VNU-HCM Logo" style="vertical-align: middle;" />
+    <img src="./vnhcm-logo.png" height="75" alt="VNU-HCM Logo" style="vertical-align: middle;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.uit.edu.vn/" target="_blank">
     <img src="./uit-logo.png" height="75" alt="UIT Logo" style="vertical-align: middle;" />
   </a>
 
-  <h1>Hi 👋, I'm Nguyen Tien Khang</h1>
+  <p align="center" style="margin: 12px 0 6px 0;">
+    <font size="6"><b>Hi 👋, I'm Nguyen Tien Khang</b></font>
+  </p>
   <p><strong>🚀 Backend Developer & AI Researcher | LLMs • VLMs</strong></p>
   <p>☕ <b>Java • .NET • Golang • Python</b></p>
   <p>🎓 Software Engineering @ <strong>University of Information Technology (UIT - VNU-HCM)</strong></p>
@@ -17,23 +19,13 @@
 
 ---
 
-<table border="0" width="100%">
-  <tr style="border: none;">
-    <td width="72%" valign="top" style="border: none;">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🔭 <b>Current Focus</b>: Designing high-performance backend systems, microservices & production-ready <b>LLM / VLM integrations</b>.</li>
-        <li>💡 <b>Research & Passions</b>: <b>Large Language Models (LLMs)</b>, <b>Vision-Language Models (VLMs)</b>, Multimodal AI, High Concurrency & System Design.</li>
-        <li>🌱 <b>Currently exploring</b>: RAG architectures, Multimodal reasoning, and high-throughput AI serving pipelines.</li>
-        <li>💼 <b>Experience</b>: Currently working as a <b>Full-time Backend Developer</b> (ex-SWE Intern).</li>
-        <li>🎯 <b>Goals</b>: Scaling high-throughput architectures, advancing LLM/VLM applications & open to impactful collaborations.</li>
-      </ul>
-    </td>
-    <td width="28%" align="center" valign="middle" style="border: none;">
-      <img src="./cat-meme.gif" width="165" alt="Debugging Cat Mascot" />
-    </td>
-  </tr>
-</table>
+### 👨‍💻 About Me
+
+- 🔭 **Current Focus**: Designing high-performance backend systems, microservices & production-ready **LLM / VLM integrations**.
+- 💡 **Research & Passions**: **Large Language Models (LLMs)**, **Vision-Language Models (VLMs)**, Multimodal AI, High Concurrency & System Design.
+- 🌱 **Currently exploring**: RAG architectures, Multimodal reasoning, and high-throughput AI serving pipelines.
+- 💼 **Experience**: Currently working as a **Full-time Backend Developer** (ex-SWE Intern).
+- 🎯 **Goals**: Scaling high-throughput architectures, advancing LLM/VLM applications & open to impactful collaborations.
 
 ---
 
