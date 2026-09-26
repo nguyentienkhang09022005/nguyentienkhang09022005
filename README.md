@@ -17,7 +17,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=640&lines=Backend+Developer+%26+System+Design;LLMs+%26+VLMs+Researcher;Multimodal+AI+%26+Computer+Vision;High-Performance+APIs+%26+Microservices" alt="Typing SVG" />
 </div>
 
----
+<img src="./dino-divider.svg" width="100%" alt="Dino Runner Divider" />
 
 ### 👨‍💻 About Me
 
@@ -27,7 +27,7 @@
 - 💼 **Experience**: Currently working as a **Full-time Backend Developer** (ex-SWE Intern).
 - 🎯 **Goals**: Scaling high-throughput architectures, advancing LLM/VLM applications & open to impactful collaborations.
 
----
+<img src="./dino-sleep.svg" width="100%" alt="Dino Sleeping Divider" />
 
 ### 🛠️ Tech Stack
 
@@ -57,7 +57,7 @@
   </p>
 </div>
 
----
+<img src="./pixel-cat-divider.svg" width="100%" alt="Pixel Cat Divider" />
 
 ### 📊 GitHub Activity & Stats
 
@@ -70,7 +70,7 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentienkhang09022005&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
----
+<img src="./dino-divider.svg" width="100%" alt="Dino Runner Divider" />
 
 <div align="center">
   <h3>🌐 Connect With Me</h3>
