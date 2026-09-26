@@ -33,25 +33,27 @@
 
 <div align="center">
   <p>
-    <strong>💻 Languages:</strong>&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=java,cs,go,py,ts,nodejs&theme=dark" alt="Languages" style="vertical-align: middle;" />
+    <img src="./label-lang.svg" height="48" style="vertical-align: top;" />
+    <img src="https://skillicons.dev/icons?i=java,cs,go,py,ts,nodejs&theme=dark" alt="Languages" style="vertical-align: top;" />
   </p>
 
   <p>
-    <strong>🧩 Frameworks & AI:</strong>&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,pytorch,angular&theme=dark" alt="Frameworks & AI" style="vertical-align: middle;" />
-    <img src="./gin.svg" width="48" height="48" alt="Gin Framework" style="vertical-align: middle; margin-left: 4px;" />
+    <img src="./label-frameworks.svg" height="48" style="vertical-align: top;" />
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,pytorch,angular&theme=dark" alt="Frameworks & AI" style="vertical-align: top;" />
+    <img src="./gin.svg" width="48" height="48" alt="Gin Framework" style="vertical-align: top; margin-left: 4px;" />
   </p>
 
   <p>
-    <strong>🗄️ Databases:</strong>&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases" style="vertical-align: middle;" />
-    <img src="./mssql.svg" width="48" height="48" alt="MSSQL" style="vertical-align: middle; margin-left: 4px;" />
+    <img src="./label-db.svg" height="48" style="vertical-align: top;" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases" style="vertical-align: top;" />
+    <img src="./mssql.svg" width="48" height="48" alt="MSSQL" style="vertical-align: top; margin-left: 4px;" />
+    <img src="./transparent.png" width="52" height="48" alt="" style="vertical-align: top;" />
   </p>
 
   <p>
-    <strong>⚙️ Tools & DevOps:</strong>&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=docker,git,postman&theme=dark" alt="Tools" style="vertical-align: middle;" />
+    <img src="./label-tools.svg" height="48" style="vertical-align: top;" />
+    <img src="https://skillicons.dev/icons?i=docker,git,postman&theme=dark" alt="Tools" style="vertical-align: top;" />
+    <img src="./transparent.png" width="156" height="48" alt="" style="vertical-align: top;" />
   </p>
 </div>
 
